@@ -20,7 +20,8 @@ h1, h2{
   width: 800px;
   margin: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  /*grid-template-columns: 1fr 1fr 1fr;*/
+  grid-template-columns: 200px 200px 200px;
   gap:10px;
   background-color: #91f321;
   background-image: url("../images/background.jpg");
